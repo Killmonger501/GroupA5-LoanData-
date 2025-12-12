@@ -1,0 +1,284 @@
+commit 2e8bcccbe22d6019ec4fa2e35a8f2875c2acb9cf
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Thu Dec 11 23:17:41 2025 +0000
+
+    Comment on Github Log Output - Significant Commit 1
+
+ 7COM1079_Final report_template_group A5.docx | Bin 75421 -> 75933 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5e8ffcbb2622336454bc44e133d9cd75994853b5
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Thu Dec 11 23:00:13 2025 +0000
+
+    Added Team Members and IDs
+
+ 7COM1079_Final report_template_group A5.docx | Bin 74798 -> 75421 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit cd9816eff84149fe8f5299b9b8e517176650072a
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Thu Dec 11 22:54:02 2025 +0000
+
+    Added Title, Group Number and Dataset Number
+
+ 7COM1079_Final report_template_group A5.docx | Bin 70967 -> 74798 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 50484bb7a6b5015f864a1ac33557808d87ac7cd4
+Author: kimutaai07 <ac24ads.herts.ac.uk>
+Date:   Fri Dec 12 01:40:14 2025 +0300
+
+    Changes
+
+ 7COM1079_Final report_template_group A5.docx | Bin 70911 -> 70967 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f03e1f272d5b9b95092f61d993eda3b187bd4bc4
+Author: kimutaai07 <ac24ads.herts.ac.uk>
+Date:   Thu Dec 11 23:31:53 2025 +0300
+
+    RQ
+
+ 7COM1079_Final report_template_group A5.docx | Bin 70938 -> 70911 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e97fc579e2592658bfa547656056e056887c9983
+Author: kimutaai07 <ac24ads.herts.ac.uk>
+Date:   Thu Dec 11 22:11:48 2025 +0300
+
+    Git IDS
+
+ 7COM1079_Final report_template_group A5.docx | Bin 70686 -> 70938 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 93a154eb436bab492fe364a1227c101230064fd3
+Author: kimutaai07 <ac24ads.herts.ac.uk>
+Date:   Thu Dec 11 11:20:41 2025 +0300
+
+    Teams Judgement
+
+ 7COM1079_Final report_template_group A5.docx | Bin 70292 -> 70686 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3bc8072da286ba0fe29f118e7a19de13de0c163c
+Author: kimutaai07 <ac24ads.herts.ac.uk>
+Date:   Thu Dec 11 00:51:24 2025 +0300
+
+    Time management
+
+ 7COM1079_Final report_template_group A5.docx | Bin 70156 -> 70292 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d9564994c8cb381806575d803de8587df3588df8
+Author: kimutaai07 <ac24ads.herts.ac.uk>
+Date:   Thu Dec 11 00:01:35 2025 +0300
+
+    Point of improvement
+
+ 7COM1079_Final report_template_group A5.docx | Bin 70064 -> 70156 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5b147332a2a636676a8f6001a762e8e8fd6633dc
+Author: kimutaai07 <ac24ads.herts.ac.uk>
+Date:   Wed Dec 10 23:33:38 2025 +0300
+
+    what went well
+
+ 7COM1079_Final report_template_group A5.docx | Bin 77141 -> 70064 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit fe68d079cb2dd422e02741385c9955cac10bdad8
+Author: kimutaai07 <ac24ads.herts.ac.uk>
+Date:   Wed Dec 10 19:29:54 2025 +0300
+
+    Research question
+
+ 7COM1079_Final report_template_group A5.docx | Bin 103575 -> 77141 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 44545278caca1732bcc19ade06f59d6b98a4fda2
+Author: jongathu <jg24adc@herts.ac.uk>
+Date:   Wed Dec 10 00:22:13 2025 +0100
+
+    updated Background research 3
+
+ 7COM1079_Final report_template_group A5.docx | Bin 102315 -> 103575 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 16ac06ad63e454e138fcc790298e4874c15e5176
+Merge: 65c0b7e 5f904fc
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Tue Dec 9 16:51:14 2025 +0000
+
+    updated presentation files
+
+commit 65c0b7e5c924884b1d87e4a46f19a0592f404d42
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Tue Dec 9 16:12:18 2025 +0000
+
+    modification to presentation files
+
+ reseach_question_presentation_template.pptx | Bin 105387 -> 101970 bytes
+ vis_and_analysis_student_demo_template.pptx | Bin 167044 -> 173211 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 5f904fc7cd86823ec65867e12a65f8f10f6bc573
+Author: jongathu <jg24adc@herts.ac.uk>
+Date:   Sun Dec 7 01:06:10 2025 +0100
+
+    updated Background research 2
+
+ 7COM1079_Final report_template_group A5.docx | Bin 101900 -> 102315 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e96880d3dd8f641a379c23077589cded26756db7
+Merge: 4f6dd65 aa97189
+Author: john gathogo <jg24adc@herts.ac.uk>
+Date:   Sun Dec 7 00:08:46 2025 +0100
+
+    updated Background research
+
+commit 4f6dd65d55a3826da1befaf74d24dfc46141b85d
+Author: john gathogo <jg24adc@herts.ac.uk>
+Date:   Sat Dec 6 23:53:35 2025 +0100
+
+    updated Background research
+
+ 7COM1079_Final report_template_group A5.docx | Bin 35686 -> 36461 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit aa971897f6331fd58d18c4c646da4fb3d6185538
+Merge: 99f72dd 054a087
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Thu Dec 4 10:23:31 2025 +0000
+
+    Indicated the use of synthic data for our dataset in the Research question
+
+commit 054a087aa9a54ac03d8f17fb0f53cc85c684e493
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Tue Dec 2 20:37:32 2025 +0000
+
+    Added Problem Statement and Research Motivation to Final Report
+
+ 7COM1079_Final report_template_group A5.docx | Bin 77966 -> 102593 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 99f72dd20cdb858a798e6e408386f03263ddec8c
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Mon Dec 1 09:39:38 2025 +0000
+
+    Corrected the dependent variable in vis_and_analysis_student_demo_template
+
+ vis_and_analysis_student_demo_template.pptx   | Bin 167044 -> 190713 bytes
+ ~$vis_and_analysis_student_demo_template.pptx | Bin 0 -> 165 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6d84094369878d2f65784d1b1107448eac9ea5a1
+Merge: 9f97e43 f3eaa12
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Mon Dec 1 09:26:40 2025 +0000
+
+    Ammended the RQ in the research question presentation file
+
+commit 9f97e430c5f9ebf86855916055304cf75b3f23fb
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Mon Dec 1 09:21:40 2025 +0000
+
+    Ammended the RQ in the research question presentation file
+
+ reseach_question_presentation_template.pptx | Bin 105387 -> 127749 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f3eaa123c8efec64c195751e49f667f864a29682
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Sun Nov 30 22:28:52 2025 +0000
+
+    Added R Script file for visualization and analysis
+
+ Loan_Data_script.R | 71 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 71 insertions(+)
+
+commit bcc5237e49c6103831bf0e58fb80bb0a8ca460ff
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Sun Nov 30 22:15:29 2025 +0000
+
+    Added visaualization and analysis presentation file
+
+ testting_L_Data.R                           |  85 ++++++++++++++++++++++++++++
+ vis_and_analysis_student_demo_template.pptx | Bin 0 -> 167044 bytes
+ 2 files changed, 85 insertions(+)
+
+commit 07a3ca0e76eb931497ae3fc92d7a5ba46185b7bc
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Sun Nov 30 22:10:45 2025 +0000
+
+    Added graph visualizations
+
+ 7COM1079_Final report_template_group A5.docx | Bin 35686 -> 77966 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e8fa8c7bda922ed9ed06fed63900dd3ccafea10c
+Author: john gathogo <jg24adc@herts.ac.uk>
+Date:   Sun Nov 30 14:47:20 2025 +0100
+
+    updated final report
+
+ 7COM1079_Final report_template_group A5.docx | Bin 37905 -> 35686 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d8930b8c00b6b54d27e74a4596ce13fdd307cb38
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Fri Nov 28 11:18:38 2025 +0000
+
+    added research question presentation file
+
+ reseach_question_presentation_template.pptx | Bin 0 -> 105387 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1e6037e0a346ac8d38bdddf95be2d0368135597e
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Fri Nov 28 11:12:03 2025 +0000
+
+    Added hypothesis statements to report file
+
+ 7COM1079_Final report_template_group A5.docx | Bin 36104 -> 37905 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2f2ee373744764a11fbc9e00e76118c247ce466c
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Thu Nov 27 15:06:32 2025 +0000
+
+    Add research question
+
+ 7COM1079_Final report_template_group A5.docx | Bin 36098 -> 36104 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 54a16660feff8337e8fc01c4174402d7060ebe2b
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Thu Nov 27 09:43:37 2025 +0000
+
+    Added Final report template document
+
+ 7COM1079_Final report_template_group A5.docx | Bin 0 -> 36098 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit dbcd06ebbf4f45b80b765927e84c66e8cad6acdb
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Tue Nov 25 16:53:50 2025 +0000
+
+    Add files via upload
+    
+    Dataset file
+
+ loan_data.csv | 45001 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 45001 insertions(+)
+
+commit b6b1928a3120767b36b5910fb58631bc7407f90e
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Tue Nov 25 16:36:48 2025 +0000
+
+    Initial commit
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
