@@ -1,3 +1,158 @@
+commit 1985478c5f870fea42099cef2c505d7ea1ba1cf3
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Fri Dec 12 16:45:59 2025 +0000
+
+    Final tweaks to report
+
+commit 8b4fcb71a51d3ff8262f335bb4715552d7dffa7d
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Fri Dec 12 16:43:24 2025 +0000
+
+    Final tweaks to report
+
+commit 92d1c52f7afa0cbe0cac5d9c8002ff20a75e4554
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Fri Dec 12 16:16:49 2025 +0000
+
+    appended R code to final report
+
+commit 2b5674f9be28fd1dd6f27739407189d1d1e7c3a8
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Fri Dec 12 16:14:58 2025 +0000
+
+    appended results esplained and limitations of study
+
+commit 01ed816f944e4677c55601d8b6c82a48737e77ed
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Fri Dec 12 15:58:02 2025 +0000
+
+    Added useful information & reworded analysis of statistical test
+
+commit 384daa289683c3e231e292d198e5b3ac9fe5d85f
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Fri Dec 12 15:39:13 2025 +0000
+
+    updated scatter plot points, heading and histogram axis limit
+
+commit f6ae19185d2cf441bee9e2afd26d323bfb5fd428
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Fri Dec 12 15:29:49 2025 +0000
+
+    modified scatterplot points size &reworded heading
+
+commit 16ff5b3fd48929829431d2268303bc0e204b114e
+Merge: ccfb67c 6238ea4
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Fri Dec 12 15:17:30 2025 +0000
+
+    correction of Histogram y axis from desnity to frequency
+
+commit 6238ea4d75056f66f003801ed2f1db34a5981344
+Author: jongathu <jg24adc@herts.ac.uk>
+Date:   Fri Dec 12 16:03:40 2025 +0100
+
+    updated 5.6 Github log final
+
+commit ccfb67cb20e5e2fea6a915ebf6d2033335687408
+Author: Moses Musoga <mm25afp@herts.ac.uk>
+Date:   Fri Dec 12 14:55:00 2025 +0000
+
+    correction of Histogram y axis from desnity to frequency
+
+commit 9bd88f7dcbbbf6b4967ddc95a25ba81b2f4abba3
+Merge: 4e8062d 7e06133
+Author: jongathu <jg24adc@herts.ac.uk>
+Date:   Fri Dec 12 15:50:44 2025 +0100
+
+    updated 5.6 Github log
+
+commit 4e8062d8f6450f0b3778eddc717651efb3698937
+Author: jongathu <jg24adc@herts.ac.uk>
+Date:   Fri Dec 12 15:34:09 2025 +0100
+
+    updated Github log 5.6
+
+commit 7e061334f2429055b92c60044a54e953297c3db3
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Fri Dec 12 14:14:39 2025 +0000
+
+    Expanded Revised and Expanded Section 4.2 of the final report
+
+commit 999983326ad77eb2aa6daf030e4bbadd65555b30
+Merge: 51fbb7d f9e1d76
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Fri Dec 12 13:34:58 2025 +0000
+
+    Resolved merge conflict in A5.docx by choosing one version
+
+commit 51fbb7d21befafa52f48b147d062596d5e9691c8
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Fri Dec 12 13:05:37 2025 +0000
+
+    Reword null hypothesis section
+
+commit f9e1d76a299a9cb6fb60bcda4c53674ffa3660e8
+Author: jongathu <jg24adc@herts.ac.uk>
+Date:   Fri Dec 12 13:53:34 2025 +0100
+
+    updated 5.6 Github log & why the RQ is of interest 2.2
+
+commit e5ed957e12b45efbed49d52a7cd27aaa5dd3d97d
+Merge: 1e8a86c 9749ef0
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Fri Dec 12 11:54:22 2025 +0000
+
+    added the null hypothesis rejection section based on p value
+
+commit 1e8a86cfcb1a3079a6f97531918410e411ef85ea
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Fri Dec 12 11:51:41 2025 +0000
+
+    added the null hypothesis rejection section based on p value
+
+commit 9749ef049e8ccd7a4ce0eb14f5e29db7930f9a20
+Author: jongathu <jg24adc@herts.ac.uk>
+Date:   Fri Dec 12 12:51:35 2025 +0100
+
+    updated 5.6 Github log
+
+commit 663330a527a442456cd0d5fdf9027ba027e10234
+Merge: 8267e18 bf4c29e
+Author: jongathu <jg24adc@herts.ac.uk>
+Date:   Fri Dec 12 12:18:06 2025 +0100
+
+    Resolved conflict - kept remote version
+
+commit 8267e184d6c1edf2f8a8a672d75d5d55b4f6e178
+Author: jongathu <jg24adc@herts.ac.uk>
+Date:   Fri Dec 12 11:35:21 2025 +0100
+
+    Edited RQ 2.2
+
+commit bf4c29eba7757176e20047cc475a5addd75e8cb3
+Author: Isaac Kechem <ik24abh@herts.ac.uk>
+Date:   Fri Dec 12 01:05:56 2025 +0000
+
+    Revised wording of null and alternative hypotheses (H0 and H1)
+
+commit 1c7c5e4267c6aceed085942e18d756967139feac
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Fri Dec 12 00:09:18 2025 +0000
+
+    Added file level change statistics to git-log-with-stat.txt
+
+commit 1f6fb53b9696f4cd35d51d819041a911c1109f29
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Fri Dec 12 00:07:33 2025 +0000
+
+    Created a visual version of the log to git-log-oneline.txt,
+
+commit 8f2487972bee15e107b46fd53df51e6b8ad5fda9
+Author: Killmonger501 <jk24acz@herts.ac.uk>
+Date:   Fri Dec 12 00:06:13 2025 +0000
+
+    Wrote full commit to gitlog.txt
+
 commit 2e8bcccbe22d6019ec4fa2e35a8f2875c2acb9cf
 Author: Killmonger501 <jk24acz@herts.ac.uk>
 Date:   Thu Dec 11 23:17:41 2025 +0000
