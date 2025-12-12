@@ -59,9 +59,10 @@ lines(xfit, yfit, col="red", lwd=3)
 plot(
   d_c$loan_amnt, 
    d_c$person_income,
-   xlab = 'Loan Amounts',
+   xlab = 'Loan Amount',
    ylab = 'Personal Income',
-   main = 'Scatter plot of Loan amount and personal income'
+   main = 'Loan amount vs Personal Income',
+  pch=20
 )
 
 model <- lm(d_c$person_income ~ d_c$loan_amnt, data = d_c)
