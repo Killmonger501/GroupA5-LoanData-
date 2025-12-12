@@ -18,7 +18,7 @@ new_df <- subset(df, select = c(person_income, loan_amnt))
 print(new_df)
 
 
-#Remove outliers
+#Removing outliers
 Q1 <- apply(new_df, 2, quantile, 0.25)
 Q3 <- apply(new_df, 2, quantile, 0.75)
 IQR <- Q3 - Q1
@@ -37,17 +37,22 @@ summary(d_c $person_income)
 
 
 #Draw Histogram with normal curve
-hist(
+hist <- hist(
   d_c$loan_amnt,
-  probability = T#,
-  #ylim = c(0,4000)
-  , main = 'Histogram of Loan amount',
-  xlab = 'Loan amount'
+  main = 'Loan amount distribution',
+  xlab = 'Loan amount',
+  ylim =c(0,2500),
+  xlim=c(0,36000),
+  col='yellow',
+  breaks = 25,
+  
 )
-#lines(density(d_c$loan_amnt, na.rm = TRUE))
-curve(dnorm(x, mean = mean(d_c$loan_amnt, na.rm = TRUE),
-            sd = sd(d_c$loan_amnt, na.rm = TRUE)), add = TRUE, col = 'red')
 
+xfit<-seq(min(d_c$loan_amnt),max(d_c$loan_amnt),length=40)
+yfit<-dnorm(xfit,mean=mean(d_c$loan_amnt),sd=sd(d_c$loan_amnt))
+yfit <- yfit*diff(hist$mids[1:2])*length(d_c$loan_amnt)
+
+lines(xfit, yfit, col="red", lwd=3)
 
 
 ### Scatter plot
