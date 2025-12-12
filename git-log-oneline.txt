@@ -1,4 +1,40 @@
-* 2e8bccc (HEAD -> main, origin/main, origin/HEAD) Comment on Github Log Output - Significant Commit 1
+* 1985478 (HEAD -> main, origin/main, origin/HEAD) Final tweaks to report
+* 8b4fcb7 Final tweaks to report
+* 92d1c52 appended R code to final report
+* 2b5674f appended results esplained and limitations of study
+* 01ed816 Added useful information & reworded analysis of statistical test
+* 384daa2 updated scatter plot points, heading and histogram axis limit
+* f6ae191 modified scatterplot points size &reworded heading
+*   16ff5b3 correction of Histogram y axis from desnity to frequency
+|\  
+| * 6238ea4 updated 5.6 Github log final
+| *   9bd88f7 updated 5.6 Github log
+| |\  
+| * | 4e8062d updated Github log 5.6
+* | | ccfb67c correction of Histogram y axis from desnity to frequency
+| |/  
+|/|   
+* | 7e06133 Expanded Revised and Expanded Section 4.2 of the final report
+* | 9999833 Resolved merge conflict in A5.docx by choosing one version
+|\| 
+| * f9e1d76 updated 5.6 Github log & why the RQ is of interest 2.2
+* | 51fbb7d Reword null hypothesis section
+|/  
+*   e5ed957 added the null hypothesis rejection section based on p value
+|\  
+| * 9749ef0 updated 5.6 Github log
+| *   663330a Resolved conflict - kept remote version
+| |\  
+| * | 8267e18 Edited RQ 2.2
+* | | 1e8a86c added the null hypothesis rejection section based on p value
+| |/  
+|/|   
+* | bf4c29e Revised wording of null and alternative hypotheses (H0 and H1)
+* | 1c7c5e4 Added file level change statistics to git-log-with-stat.txt
+* | 1f6fb53 Created a visual version of the log to git-log-oneline.txt,
+* | 8f24879 Wrote full commit to gitlog.txt
+* | 2e8bccc Comment on Github Log Output - Significant Commit 1
+|/  
 * 5e8ffcb Added Team Members and IDs
 * cd9816e Added Title, Group Number and Dataset Number
 * 50484bb Changes
