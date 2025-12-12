@@ -1,0 +1,41 @@
+* 2e8bccc (HEAD -> main, origin/main, origin/HEAD) Comment on Github Log Output - Significant Commit 1
+* 5e8ffcb Added Team Members and IDs
+* cd9816e Added Title, Group Number and Dataset Number
+* 50484bb Changes
+* f03e1f2 RQ
+* e97fc57 Git IDS
+* 93a154e Teams Judgement
+* 3bc8072 Time management
+* d956499 Point of improvement
+* 5b14733 what went well
+* fe68d07 Research question
+* 4454527 updated Background research 3
+*   16ac06a updated presentation files
+|\  
+| * 5f904fc updated Background research 2
+| *   e96880d updated Background research
+| |\  
+| | *   aa97189 Indicated the use of synthic data for our dataset in the Research question
+| | |\  
+| | | * 054a087 Added Problem Statement and Research Motivation to Final Report
+| | * | 99f72dd Corrected the dependent variable in vis_and_analysis_student_demo_template
+| | |/  
+| | *   6d84094 Ammended the RQ in the research question presentation file
+| | |\  
+| | * | 9f97e43 Ammended the RQ in the research question presentation file
+| * | | 4f6dd65 updated Background research
+* | | | 65c0b7e modification to presentation files
+| |_|/  
+|/| |   
+* | | f3eaa12 Added R Script file for visualization and analysis
+* | | bcc5237 Added visaualization and analysis presentation file
+* | | 07a3ca0 Added graph visualizations
+|/ /  
+* / e8fa8c7 updated final report
+|/  
+* d8930b8 added research question presentation file
+* 1e6037e Added hypothesis statements to report file
+* 2f2ee37 Add research question
+* 54a1666 Added Final report template document
+* dbcd06e Add files via upload
+* b6b1928 Initial commit
